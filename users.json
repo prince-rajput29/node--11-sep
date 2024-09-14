@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Symon",
+        "last_name": "Newvell",
+        "email": "snewvell0@ucla.edu",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Clem",
+        "last_name": "Edmons",
+        "email": "cedmons1@state.gov",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Jody",
+        "last_name": "Topaz",
+        "email": "jtopaz2@clickbank.net",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Wendy",
+        "last_name": "Humphrys",
+        "email": "whumphrys3@sogou.com",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Candice",
+        "last_name": "Kase",
+        "email": "ckase4@nba.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Christopher",
+        "last_name": "Bennington",
+        "email": "cbennington5@ebay.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Abel",
+        "last_name": "Major",
+        "email": "amajor6@seesaa.net",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Geralda",
+        "last_name": "Llewelly",
+        "email": "gllewelly7@parallels.com",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Carmela",
+        "last_name": "Kulver",
+        "email": "ckulver8@nps.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Marcelle",
+        "last_name": "Pawels",
+        "email": "mpawels9@accuweather.com",
+        "gender": "Female"
+    }
+]
